@@ -1,4 +1,6 @@
 "use strict"
+
+
 // nav burger
 const burger = document.querySelector("#burger");
 const links = document.querySelector(".links");
