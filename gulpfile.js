@@ -2,6 +2,7 @@
 // nav burger
 const burger = document.querySelector("#burger");
 const links = document.querySelector(".links");
+const anchors = document.querySelectorAll("a")
 
 burger.addEventListener("click", () =>{
   links.classList.toggle("absolute");
